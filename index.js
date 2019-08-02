@@ -1,9 +1,6 @@
 
-// before running this program, in a terminal, do:
-// mkdir node-blink1-test
-// cd node-blink1-test
-// npm install node-blink1 --save
-// node index.js  (this file)
+// simple test of node-blink1
+// @todbot
 
 var Blink1 = require('node-blink1');
 var blink1 = new Blink1();
